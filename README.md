@@ -1,10 +1,10 @@
 # Cdac-Website-Design
-I do this Website Design Using HTML,CSS and Bootstrap
+I do this Website Design Using HTML,CSS and Bootstrap.
 
 # VS Code 
-This Website I can see By running Live Server in VS code
+This Website I can see By running Live Server in VS code,
 
-VS code Platform is very useful for me to run  
+VS code Platform is very useful for me to run.
 
 # Output for this Website Design.
 ![Cdac Design1](https://github.com/Rajeswari-28/Cdac-Website-Design/assets/128280511/c4a3b505-dbea-4298-a08f-775854e93353)
